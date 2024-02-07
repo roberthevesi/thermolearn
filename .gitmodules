@@ -1,0 +1,12 @@
+[submodule "thermolearn-backend"]
+	path = thermolearn-backend
+	url = https://github.com/roberthevesi/thermolearn-backend.git
+[submodule "thermolearn-frontend"]
+	path = thermolearn-frontend
+	url = https://github.com/roberthevesi/thermolearn-frontend.git
+[submodule "thermolearn-model"]
+	path = thermolearn-model
+	url = https://github.com/roberthevesi/thermolearn-model.git
+[submodule "thermolearn-device"]
+	path = thermolearn-device
+	url = https://github.com/roberthevesi/thermolearn-device.git
