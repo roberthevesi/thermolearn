@@ -50,6 +50,7 @@ Before running the project, make sure you have the following software installed 
         Make sure you have Python installed:
 
         ```bash
+        cd thermolearn-device/Pi
         python main.py
         ```
 
