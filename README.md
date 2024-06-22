@@ -51,7 +51,7 @@ Before running the project, make sure you have the following software installed 
 
         ```bash
         cd thermolearn-device/Pi
-        python main.py
+        python script.py
         ```
 
     - **Server (thermolearn-backend):**
