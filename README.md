@@ -1,4 +1,4 @@
-<img src="assets/logo.png" alt="logo" width="420">
+<img src="assets/logo.png" alt="logo" width="360">
 
 **Thermolearn**
 
@@ -25,7 +25,7 @@ Before running the project, make sure you have the following software installed 
 
 **Running the Application:**
 
-1. Clone this repository:
+1. Clone the repository:
 
     ```bash
     git clone https://github.com/roberthevesi/thermolearn.git --recurse-submodules
@@ -62,5 +62,5 @@ Before running the project, make sure you have the following software installed 
 
         ```bash
         cd thermolearn-backend
-        java -jar api-0.0.1-SNAPSHOT.jar
+        java -jar target/api-0.0.1-SNAPSHOT.jar
         ```
