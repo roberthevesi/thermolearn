@@ -1,8 +1,10 @@
+<img src="assets/logo.png" alt="logo" width="420">
+
 **Thermolearn**
 
 **Description:**
 
-This repository contains the code for Thermolearn.
+This repository contains the source code for Thermolearn, a smart thermostat system with energy efficiency and learning capabilities.
 
 **Structure:**
 
